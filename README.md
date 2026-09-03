@@ -4,51 +4,6 @@ An artistic, minimalist developer portfolio crafted for **Shelas A L** (Machine 
 
 Engineered with **pure semantic HTML5, modern CSS3, and vanilla JavaScript** (zero external build tools or npm dependencies), featuring an **artistic warm beige & roasted espresso brown light theme** alongside an **atmospheric warm obsidian dark theme**, and highlighting two primary technical case studies: **Credit Risk Prediction System** and **PixelBridge**.
 
----
-
-## 🚀 How to Host on GitHub Pages (2-Minute Setup)
-
-Your GitHub username is **`ShelasA`**.
-
-### Step-by-Step Instructions:
-
-1. **Log in to GitHub**: Go to [github.com](https://github.com) (`ShelasA`).
-2. **Create a New Repository**:
-   - Click the **+** (top right) &rarr; **New repository**.
-   - **Repository name**: `portfolio` (or `ShelasA.github.io`).
-   - Set visibility to **Public**.
-   - Click **Create repository**.
-3. **Upload the Files**:
-   - On your repository page, click **Add file** &rarr; **Upload files**.
-   - Drag and drop everything inside the `shelas-portfolio` directory:
-     - `index.html`
-     - `style.css`
-     - `script.js`
-     - `README.md`
-     - `assets/` folder (with `images/` and `docs/`)
-   - Click **Commit changes**.
-4. **Enable GitHub Pages**:
-   - Go to **Settings** &rarr; **Pages** (in the left sidebar).
-   - Under **Build and deployment** &rarr; **Source**: select **Deploy from a branch**.
-   - Under **Branch**: choose `main` (or `master`) and `/ (root)`.
-   - Click **Save**.
-5. **Live URL**:
-   Within 1–2 minutes, your website is live worldwide at:
-   ```
-   https://shelasa.github.io/portfolio/
-   ```
-   *(Or `https://shelasa.github.io/` if you named the repository `ShelasA.github.io`)*.
-
----
-
-## 💻 Local Testing
-
-You can open and preview this portfolio on your computer right away with zero installation:
-1. Double-click **`index.html`** in your file manager.
-2. It will open in Google Chrome, Edge, or Firefox and run 100% offline.
-
----
-
 ## 📁 Directory Structure
 
 ```
